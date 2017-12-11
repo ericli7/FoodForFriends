@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Food Friend</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Name</string>
+    <string name="useremail">Email</string>
+    <string name="userpassword">Password</string>
+    <string name="userregister">register</string>
+    <string name="user_already_register">Already Register!</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_password">Enter the password (At Least 6 Character)</string>
+
+
+    <string name="title_activity_main">Food Friend</string>
+    <string name="userstatus">Hey, I\'m using Food Friend</string>
+
+
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+
+
+</resources>

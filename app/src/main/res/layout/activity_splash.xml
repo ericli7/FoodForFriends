@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:id="@+id/lin_lay"
+    android:background="@drawable/splash_background"
+ >
+
+<ImageView
+    android:id="@+id/splash"
+    android:layout_width="150dp"
+    android:layout_height="150dp"
+    android:layout_centerInParent="true"
+    android:src="@drawable/logo" />
+
+<TextView
+    android:id="@+id/textview"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:textSize="18dp"
+    android:textColor="@android:color/white"
+    android:gravity="center_horizontal"
+    android:layout_alignParentBottom="true"
+    android:text="Welcome to Food Friend Chat" />
+
+</RelativeLayout>
